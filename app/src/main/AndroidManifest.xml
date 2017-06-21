@@ -41,7 +41,8 @@
             android:value="@integer/google_play_services_version" />
 
         <activity android:name=".AddMaterialActivity" />
-        <activity android:name=".ConfirmationActivity"></activity>
+        <activity android:name=".ConfirmationActivity" />
+        <activity android:name=".CustomImageActivity"></activity>
     </application>
 
 </manifest>
